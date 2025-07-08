@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1.23.16
+ ghcr.io/raywangqvq/bili_tool_web

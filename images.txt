@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.63.0
+mysql:8.4.6

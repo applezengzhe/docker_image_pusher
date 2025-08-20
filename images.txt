@@ -1,1 +1,2 @@
 ghcr.io/imagegenius/immich:latest
+library/postgres

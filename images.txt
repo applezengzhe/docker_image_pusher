@@ -1,1 +1,1 @@
-photoprism/photoprism:250707-ce
+firezmc/dosgame-web-docker:v3.9.6

@@ -1,1 +1,1 @@
-firezmc/dosgame-web-docker:v3.9.6
+johngong/baidunetdisk:latest

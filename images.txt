@@ -1,1 +1,1 @@
-johngong/baidunetdisk:latest
+docker.io/yucatovo/baidunetdisk-docker:latest

@@ -1,1 +1,1 @@
-openvpn/openvpn-as:latest
+hslr/sun-panel:1.3.0

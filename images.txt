@@ -1,1 +1,1 @@
-linuxserver/homeassistant
+homeassistant/home-assistant:latest
